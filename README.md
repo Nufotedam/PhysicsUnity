@@ -1,0 +1,2 @@
+# PhysicsUnity
+Unity project about the interaction of the physics implemented in Unity3D and other different features, such as the movement of objects, the interaction between them, plus a complete character controller with: basic movement, gravity, jumping, slope sliding, movement with object and ragdoll physics. Also in the project there are different features of a superhero programmed for the main character.
